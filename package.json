@@ -1,8 +1,0 @@
-{
-  "name": "slash-cli",
-  "version": "1.0.0",
-  "bin": {
-    "slash": "./bin/slash.js"
-  },
-  "type": "commonjs"
-}
