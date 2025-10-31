@@ -1,0 +1,13 @@
+{
+  "name": "slash-cli",
+  "version": "1.0.0",
+  "description": "Public Slash CLI - AI-powered UI generator",
+  "main": "bin/slash.js",
+  "bin": {
+    "slash": "./bin/slash.js"
+  },
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bin/slash.js"
+  }
+}
